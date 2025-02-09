@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RestaurantManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:RestaurantManagementSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.aboutusfood">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.aboutusfoodimage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnAboutUs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnChampagne">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnChicken">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnClose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnCoffee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnCola">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnDrinks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnFoods">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnMate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnMaximize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnMilk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnMilkShake">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnMinimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.btnOtherFood">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_account_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_chicken_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_email_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_hamburger_94">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_male_user_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_noodles_94">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_office_phone_94">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_pancake_stack_94">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_password_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_pizza_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_pizza_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.icons8_rice_bowl_94">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.logoRestaurant">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestaurantManagementSystem.My.Resources.Resources.picCart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
